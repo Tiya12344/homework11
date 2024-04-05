@@ -3,3 +3,5 @@ answer = 1
 for i in list:
     answer = answer * i
     print(answer)
+
+print(answer)
